@@ -25,14 +25,13 @@ Driver Fatigue Monitoring System is an advanced system that uses YOLOv8 for real
 - Real-time driver fatigue detection using YOLOv8.
 - User-friendly web interface built with Streamlit.
 - Seamless deployment with Flask.
-- [Add more features here...]
 
 ## Getting Started
 
 ### Prerequisites
 
 - Python 3.6+
-- [List any other prerequisites...]
+
 
 ### Installation
 
