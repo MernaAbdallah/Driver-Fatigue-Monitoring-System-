@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['awake', 'calling', 'chatting', 'closed_eye', 'drink', 'drowsy', 'eating', 'no_yawn', 'open_eye', 'smoking', 'yawn']
+
+roboflow:
+  workspace: detection-4nooy
+  project: drive-drowsiness-detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/detection-4nooy/drive-drowsiness-detection/dataset/1
