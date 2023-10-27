@@ -1,4 +1,3 @@
-![image](https://github.com/MernaAbdallah/Driver-Fatigue-Monitoring-System-/assets/91502893/b96cf569-1664-4d6b-8f1c-28d65ccd35f1)```markdown
 # Driver Fatigue Monitoring System
 
 ![image](https://github.com/MernaAbdallah/Driver-Fatigue-Monitoring-System-/assets/91502893/590406fb-261c-4377-91f0-2ad22db2359e)
