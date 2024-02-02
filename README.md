@@ -37,13 +37,12 @@ Driver Fatigue Monitoring System is an advanced system that uses YOLOv8 for real
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/driver-fatigue-monitoring.git
+   git clone https://github.com/MernaAbdallah/driver-fatigue-monitoring.git
    ```
 
 2. Install the required packages:
    ```sh
    cd driver-fatigue-monitoring
-   pip install -r requirements.txt
    ```
 
 ## Usage
